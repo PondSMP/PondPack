@@ -1,7 +1,12 @@
 {
-    "pack": {
-        "description": "Resource pack for custom items in the Pond SMP.",
-        "min_format": 32,
-        "max_format": 88
+  "pack": {
+    "description": "Resource pack for custom items in the Pond SMP.",
+    "pack_format": 88,
+    "min_format": 32,
+    "max_format": 88,
+    "supported_formats": {
+      "min_inclusive": 32,
+      "max_inclusive": 88
     }
+  }
 }
